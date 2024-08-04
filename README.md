@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+This is Farhan Ahmad Nafis. I am a recent graduate completing B.Sc. in Electrical and Electronic Engineering from Brac University, Dhaka, Bangladesh. 
+
+Farhan is a conscientious individual who is willing to go to extraordinary lengths to persistently better himself. He thrives while facing obstacles head-on and ensures to uphold the tenacity necessary to achieve positive outcomes.
+
+Farhan has been an active member of several student-run groups and international organizations. Under the guidance of Prof. AKM Abdul Malek Azad, he is Research Assistant (RA) at the Control and Applications Research Centre (CARC), Brac University. He was the Editor(2022) and Chairperson(2023) for the IEEE Brac University Student Branch. He was project Technical Lead for BracU Starbound Rocketry. 
+
+Farhan's academic and research interests are interdisciplinary. He is continuously seeking new possibilities in the field of Deep Learning, Embedded Systems, Internet of Things (IoT), Robotics, Neural Signal and Image Processing, Machine Design, Space-systems control engineering, Finite Element Analysis (FEA), and Computational Fluid Dynamics (CFD). 
+
+You can find my CV, [Here](https://drive.google.com/file/d/1YL5K7N6jN0Gq09W6u-nUzghp0zGDMski/view?usp=sharing)
+
 <!--
 **FarhanNafis73/FarhanNafis73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
