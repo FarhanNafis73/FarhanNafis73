@@ -6,7 +6,7 @@ My academic and research interests are interdisciplinary. I am quite interested 
 
 I aspire to make cool things. I work on various projects (usually at the same time). I love documentaries.
 
-You can find my CV, [Here]([https://drive.google.com/file/d/1YL5K7N6jN0Gq09W6u-nUzghp0zGDMski/view?usp=sharing](https://drive.google.com/file/d/1yRtX7XEODVfFFuVaQiO9QsiYDhx5-FhN/view?usp=sharing))
+You can find my CV, [Here](https://drive.google.com/file/d/1e_Mciv8CiGhpOLJrW5vwhq1S4VlC6CVZ/view?usp=sharing)
 
 - 🔭 I’m currently working on brain-control mechanisms. I also am working on Computer Vision and autonomous systems.
 - 🌱 I’m currently learning to control robots.
