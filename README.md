@@ -2,7 +2,9 @@
 
 This is Farhan Ahmad Nafis. I am a recent graduate completing B.Sc. in Electrical and Electronic Engineering from BRAC University, Dhaka, Bangladesh. 
 
-My academic and research interests are interdisciplinary. I am quite interested in Embedded Systems, IoT, Autonomous Robots, Computer Vision, Machine Design, Control Systems, and huamn computer interaction.
+My academic and research interests are interdisciplinary. I am often work with Embedded Systems, IoT, Autonomous Robots, Computer Vision, Machine Design, Control Systems, and huamn computer interaction.
+
+My research interest is in autononmous systems, autonomous driving vehicles, HCI, HRI, HMI, CV in robotics and autonomous suites.
 
 I aspire to make cool things. I work on various projects (usually at the same time). I love documentaries.
 
