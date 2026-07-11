@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/FarhanNafis73">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4B75FF&fontSize=54&height=90&width=1018&text=Hello!%20I'm%20Farhan%20Ahmad%20Nafis" alt="Hello! I&#39;m Farhan Ahmad Nafis" />
   </a>
@@ -22,8 +22,8 @@ I work on various projects (usually at the same time).
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=FarhanNafis73&layout=compact&theme=tokyonight&title_color=4B75FF&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+<p align="left">
+  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=FarhanNafis73&layout=compact&theme=tokyonight&title_color=4B75FF&icon_color=ADEEC5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
