@@ -23,9 +23,9 @@ I work on various projects (usually at the same time).
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=FarhanNafis73&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=FarhanNafis73&layout=compact&theme=tokyonight&title_color=4B75FF&icon_color=4B75FF&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/FarhanNafis73">FarhanNafis73</a></i></p>
+<!-- <p align="center"><i>⭐️ From <a href="https://github.com/FarhanNafis73">FarhanNafis73</a></i></p> -->
 
