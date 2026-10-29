@@ -9,7 +9,7 @@
 This is Farhan A. Nafis. I mostly work with embedded systems, control systems, and electronics.   
 I work on various projects (usually at the same time).
 
-🔭 &nbsp;I'm currently working on **optimal control**
+🔭 &nbsp;I'm currently working on **circuits**, **power electronics**, and **optimal control**.
 
 ### 🛠️ Tech Stack
 
